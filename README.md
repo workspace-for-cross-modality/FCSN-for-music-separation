@@ -10,6 +10,11 @@ For each sample, we supply the following files:
 * object image files that corresponding to sound sources
 * the spectrograms for every music audio files
 
+<audio id="audio" controls="" preload="none">
+      <source id="wav" src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/audio1_groundtruth.wav">
+      </audio>
+
+
 ### Visualization
 
 Here, we visualize the experiment results as spectrograms of corresponding music audio files. 
@@ -70,7 +75,3 @@ Sample 2:
 
 ## Code Part
 The README of our code can be seen at /code/CRN/README.md.
-
-<audio id="audio" controls="" preload="none">
-      <source id="wav" src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/audio1_groundtruth.wav">
-      </audio>
