@@ -16,12 +16,6 @@ For each sample, we supply the following files:
 
 Here, we visualize the experiment results as spectrograms of corresponding music audio files. 
 
-You can directly download the following file
-```
-Visualization of Experiments.pptx
-```
-to see the spectrograms and listen to the audios by clicking the "speaker" logo.
-
 And all the music audio source files can be found at the correspongding folders in /music files/--.
 
 #### 2-mix samples
