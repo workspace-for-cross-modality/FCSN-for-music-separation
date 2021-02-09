@@ -18,7 +18,8 @@ For each sample, we present the files:
 ### Visualization
 
 Here, we visualize the music files as spectrograms. 
-All the music files can be found at the correspongding folders in /music files/--.
+
+And all the music files can be found at the correspongding folders in /music files/--.
 
 #### Artificial 2-mix samples
 Sample 1：
