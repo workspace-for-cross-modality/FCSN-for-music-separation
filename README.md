@@ -20,3 +20,4 @@ For each sample, we present the files:
 Sample 1：
 
 |Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/Object_detection_1.png" width="200">|
+|---|---|
