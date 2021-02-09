@@ -10,9 +10,6 @@ For each sample, we supply the following files:
 * object image files that corresponding to sound sources
 * the spectrograms for every music audio files
 
-<audio id="audio" controls="" preload="none">
-      <source id="wav" src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/audio1_groundtruth.wav">
-      </audio>
 
 
 ### Visualization
