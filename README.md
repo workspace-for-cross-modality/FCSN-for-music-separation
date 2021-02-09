@@ -16,6 +16,9 @@ For each sample, we present the files:
 * the spectrograms for every music files. 
 
 ### Visualization
+
+All the music file can be found at the correspongding folder.
+
 #### Artificial 2-mix samples
 Sample 1：
 
@@ -24,3 +27,4 @@ Sample 1：
 |Ground Truth Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/audio1_groundtruth_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/audio2_groundtruth_spectrogram.png" width="200">|
 |Mixture Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/spectrogram_mixture.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/spectrogram_mixture.png" width="200">|
 |Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/separated_2_spectrogram.png" width="200">|
+
