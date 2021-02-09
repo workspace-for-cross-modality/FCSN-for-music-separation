@@ -55,3 +55,19 @@ Sample 2：
 |Mixture Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/spectrogram_mixture.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/spectrogram_mixture.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/spectrogram_mixture.png" width="200">|
 |Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/separated_2_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/separated_3_spectrogram.png" width="200">|
 
+#### Real-mix duet samples
+
+Sample 1:
+|Frame|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/frame.png" width="150">||
+|---|---|---|
+|Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/Object_detection_1.png" width="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/Object_detection_2.png" width="150">|
+|Duet Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/duet_spectrogram_groundtruth.png" width="150">||
+|Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/separated_2_spectrogram.png" width="200">|
+
+Sample 2:
+|Frame|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/frame.png" width="150">||
+|---|---|---|
+|Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/Object_detection_1.png" width="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/Object_detection_2.png" width="150">|
+|Duet Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/duet_spectrogram_groundtruth.png" width="150">||
+|Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/separated_2_spectrogram.png" width="200">|
+
