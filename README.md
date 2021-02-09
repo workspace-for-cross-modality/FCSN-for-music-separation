@@ -19,4 +19,4 @@ For each sample, we present the files:
 #### Artificial 2-mix samples
 Sample 1：
 
-![sample1](https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/Object_detection_1.png =100x100)
+![sample1](https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/Object_detection_1.png)<wid=100>
