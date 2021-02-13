@@ -6,17 +6,17 @@ Music source separation from a sound mixture remains a big challenge because the
 ## Audio-Vision Separation Results
 The audio-visual results include three sub-parts: 2-mix samples, 3-mix samples, and real-mix duet samples. 
 For each sample, we supply the following files: 
-* music audio files
-* object image files that corresponding to sound sources
-* the spectrograms for every music audio files
+* Music audio files;
+* Object detection images corresponding to the sound sources;
+* Spectrograms corresponding to each audio file.
 
 
 
 ### Visualization
 
-Here, we visualize the experiment results as spectrograms of corresponding music audio files. 
+Here, we visualize the experiment results as spectrograms and music audios. 
 
-And all the music audio source files can be found at the correspongding folders in /music files/--.
+You can directly listen to the music audios by clicking the 
 
 #### 2-mix samples
 Sample 1：
