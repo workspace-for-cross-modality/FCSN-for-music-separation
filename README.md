@@ -21,7 +21,7 @@ Here, we visualize the experiment results as spectrograms and music audios.
 
 You can directly listen to the music audios by clicking the links below the spectrograms.
 
-(**Note**: You need to be able to access **Google** to listen to the audio files.)
+(**Note**: The source files of music spectrogram can be found in this folder [/music_files/--](https://github.com/workspace-for-cross-modality/CRN-for-music-separation/tree/main/music_files), and you need to be able to access **Google** to listen to the audio files.)
 
 
 #### → 2-mix samples
