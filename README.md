@@ -27,7 +27,7 @@ You can directly listen to the music audios by clicking the links below the spec
  - Sample 1：
 
 |Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/Object_detection_1.png" width="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/Object_detection_2.png" width="150">
-|---|:-:|:-:|
+|:-:|:-:|:-:|
 |Ground Truth Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/audio1_groundtruth_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/audio2_groundtruth_spectrogram.png" width="200">|
 |Ground Truth Audio|[Audio_GT_1](https://drive.google.com/file/d/1Cgdnu8fjDP4TK-pQrxTiwNlxsXHLyaLK/view?usp=sharing)|[Audio_GT_2](https://drive.google.com/file/d/1FKOezbpS1NwIQDtvBusKWz8TqfXWtnh0/view?usp=sharing)|
 |Mixture Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/spectrogram_mixture.png" width="200">||
@@ -39,7 +39,7 @@ You can directly listen to the music audios by clicking the links below the spec
  - Sample 2：
 
 |Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/Object_detection_1.png" width="150" height="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/Object_detection_2.png" width="150">
-|---|:-:|:-:|
+|:-:|:-:|:-:|
 |Ground Truth Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/audio1_groundtruth_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/audio2_groundtruth_spectrogram.png" width="200">|
 |Ground Truth Audio|[Audio_GT_1](https://drive.google.com/file/d/1F1ymD9t2-RdQuLJY9r-RAlDfyB1N9tc5/view?usp=sharing)|[Audio_GT_2](https://drive.google.com/file/d/1ErmxMR-pUa1fqm8-jYbj8k6sEB65_nFG/view?usp=sharing)|
 |Mixture Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/spectrogram_mixture.png" width="200">||
@@ -53,7 +53,7 @@ You can directly listen to the music audios by clicking the links below the spec
  - Sample 1：
 
 |Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/Object_detection_1.png" width="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/Object_detection_2.png" width="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/Object_detection_3.png" width="150" height="150">|
-|---|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 |Ground Truth Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/audio1_groundtruth_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/audio2_groundtruth_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/audio3_groundtruth_spectrogram.png" width="200">|
 |Ground Truth Audio|[Audio_GT_1](https://drive.google.com/file/d/1LYFSjyDkwwhhVwnTaQNxowRvdD11E3IF/view?usp=sharing)|[Audio_GT_2](https://drive.google.com/file/d/1B0zTVY7MeBtLRq6Uets6GE3O-M2iWg5N/view?usp=sharing)|[Audio_GT_3](https://drive.google.com/file/d/15St14F-84NrfhCpykQza5Q68UI9U4u1-/view?usp=sharing)|
 |Mixture Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/spectrogram_mixture.png" width="200">|||
@@ -65,7 +65,7 @@ You can directly listen to the music audios by clicking the links below the spec
  - Sample 2：
 
 |Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/detection_1.png" width="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/detection_2.png" width="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/detection_3.png" width="150" height="150">|
-|---|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 |Ground Truth Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/audio1_groundtruth_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/audio2_groundtruth_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/audio3_groundtruth_spectrogram.png" width="200">|
 |Ground Truth Audio|[Audio_GT_1](https://drive.google.com/file/d/1pwy_aW0yYbzy_QNTT2yL6DgpIuvdvCzn/view?usp=sharing)|[Audio_GT_2](https://drive.google.com/file/d/1ma_H7nq1pNhDJYNifbN34X6SVwcYDUwL/view?usp=sharing)|[Audio_GT_3](https://drive.google.com/file/d/119c6najFMPSvhaRojHQTRv8J3VIJ8EcQ/view?usp=sharing)|
 |Mixture Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/spectrogram_mixture.png" width="200">|||
@@ -79,7 +79,7 @@ You can directly listen to the music audios by clicking the links below the spec
  - Sample 1:
  
 |Frame|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/frame.png" width="150">||
-|---|:-:|:-:|
+|:-:|:-:|:-:|
 |Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/Object_detection_1.png" width="150" height="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/Object_detection_2.png" width="150" height="150">|
 |Duet Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/duet_spectrogram_groundtruth.png" width="200">||
 |Duet Audio|[Audio_Duet](https://drive.google.com/file/d/1VC4gHCAKZoQPem1v-4RgoC_LJ3kmD6p2/view?usp=sharing)||
@@ -90,7 +90,7 @@ You can directly listen to the music audios by clicking the links below the spec
  - Sample 2:
  
 |Frame|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/frame.png" width="150">||
-|---|:-:|:-:|
+|:-:|:-:|:-:|
 |Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/Object_detection_1.png" width="150" height="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/Object_detection_2.png" width="150" height="150">|
 |Duet Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/duet_spectrogram_groundtruth.png" width="200">||
 |Duet Audio|[Audio_Duet](https://drive.google.com/file/d/1GBDdO0GUiDBPqvl0pNBsc8mmb8I70OX7/view?usp=sharing)||
