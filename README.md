@@ -9,6 +9,8 @@ For each sample, we supply the following files:
 * Music audio files;
 * Object detection images corresponding to the sound sources;
 * Spectrograms corresponding to each audio file.
+For 2-mix samples, there are two sound sources in the mixture to be separated. And the same setting is applied for 3-mix samples.
+For real-mix duet samples, we randomly select duet samples in the MUSIC dataset to simulate the separation results in real scenes. 
 
 
 
@@ -16,7 +18,7 @@ For each sample, we supply the following files:
 
 Here, we visualize the experiment results as spectrograms and music audios. 
 
-You can directly listen to the music audios by clicking the 
+You can directly listen to the music audios by clicking the links below the spectrograms.
 
 #### 2-mix samples
 Sample 1：
