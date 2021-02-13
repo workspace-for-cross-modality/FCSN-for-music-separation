@@ -99,7 +99,7 @@ You can directly listen to the music audios by clicking the links below the spec
  - - -
 
 ### Conclusion
-In this work, we propose a cycle-refining network for visually-guided audio source separation. Our cycle-refining operation explored the full potential of visual guidance in audio source separation and contributed to the separation of interactive sounds as well. The experiments demonstrated the effectiveness of our approach.
+In this work, we propose a cycle-refining network for visually-guided audio source separation. Our cycle-refining operation explored the full potential of visual guidance in audio source separation and contributed to the separation of interactive sounds as well. Our approach can accurately separate the sound of each sounding instrument from the mixed signal of multiple instrument sound sources. The experiments demonstrated the effectiveness of our approach. 
 ***
 
 ## Code Part
