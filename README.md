@@ -22,7 +22,7 @@ Here, we visualize the experiment results as spectrograms and music audios.
 
 You can directly listen to the music audios by clicking the links below the spectrograms.
 
-#### > 2-mix samples
+#### → *2-mix samples*
 
  - Sample 1：
 
@@ -47,7 +47,7 @@ You can directly listen to the music audios by clicking the links below the spec
 |Separated Audio|[Audio_Separation_1](https://drive.google.com/file/d/1ID6xYdaHSQtLTJXGMjyBpxnoW5bWqf1m/view?usp=sharing)|[Audio_Separation_2](https://drive.google.com/file/d/1aqPHt8MeI3fv7niG3WF7cu2zrMKQ8p7Y/view?usp=sharing)|
 
 
-#### 3-mix samples
+#### → 3-mix samples
 
  - Sample 1：
 
@@ -71,7 +71,7 @@ You can directly listen to the music audios by clicking the links below the spec
 |Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/separated_2_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/separated_3_spectrogram.png" width="200">|
 |Separated Audio|[Audio_Separation_1](https://drive.google.com/file/d/1XexqJnTmRnGDQ7tzmP2Mp4lqIgPTt4mH/view?usp=sharing)|[Audio_Separation_2](https://drive.google.com/file/d/1KRLJlycYZvwrOx34wfV933nQ3aEkB2uR/view?usp=sharing)|[Audio_Separation_3](https://drive.google.com/file/d/1AmfnZFa4XYvP5EIP2sUvxctCwjO_75wh/view?usp=sharing)|
 
-#### Real-mix duet samples
+#### → Real-mix duet samples
 
  - Sample 1:
  
