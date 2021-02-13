@@ -98,5 +98,8 @@ You can directly listen to the music audios by clicking the links below the spec
 |Separated Audio|[Audio_Separation_1](https://drive.google.com/file/d/12VgUmI4AoUT1Sw4LK0bTRgkBSVWTOa91/view?usp=sharing)|[Audio_Separation_2](https://drive.google.com/file/d/15ToiHPZXiS-jnBOEuECHCDmTnHyFRhTv/view?usp=sharing)|
 ***
 
+### Conclusion
+In this work, we propose a cycle-refining network for visually-guided audio source separation. Our cycle-refining operation explored the full potential of visual guidance in audio source separation and contributed to the separation of interactive sounds as well. The experiments demonstrated the effectiveness of our approach.
+
 ## Code Part
 The README of our code can be seen at /code/CRN/README.md.
