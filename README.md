@@ -5,10 +5,12 @@ Music source separation from a sound mixture remains a big challenge because the
 
 ## Audio-Vision Separation Results
 The audio-visual results include three sub-parts: 2-mix samples, 3-mix samples, and real-mix duet samples. 
+
 For each sample, we supply the following files: 
 * Music audio files;
 * Object detection images corresponding to the sound sources;
 * Spectrograms corresponding to each audio file.
+
 For 2-mix samples, there are two sound sources in the mixture to be separated. And the same setting is applied for 3-mix samples.
 For real-mix duet samples, we randomly select duet samples in the MUSIC dataset to simulate the separation results in real scenes. 
 
