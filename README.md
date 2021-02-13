@@ -35,8 +35,11 @@ Sample 2：
 |Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/Object_detection_1.png" width="150" height="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/Object_detection_2.png" width="150">
 |---|---|---|
 |Ground Truth Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/audio1_groundtruth_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/audio2_groundtruth_spectrogram.png" width="200">|
+|Ground Truth Audio|[Audio_GT_1](https://drive.google.com/file/d/1F1ymD9t2-RdQuLJY9r-RAlDfyB1N9tc5/view?usp=sharing)|[Audio_GT_2](https://drive.google.com/file/d/1ErmxMR-pUa1fqm8-jYbj8k6sEB65_nFG/view?usp=sharing)|
 |Mixture Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/spectrogram_mixture.png" width="200">||
+|Mixture Audio|[Audio_Mixture](https://drive.google.com/file/d/1b_itzUbLRxcqxwV8d4f_ufotvCzHSjHm/view?usp=sharing)||
 |Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/separated_2_spectrogram.png" width="200">|
+|Separated Audio|[Audio_Separation_1](https://drive.google.com/file/d/1ID6xYdaHSQtLTJXGMjyBpxnoW5bWqf1m/view?usp=sharing)|[Audio_Separation_2](https://drive.google.com/file/d/1aqPHt8MeI3fv7niG3WF7cu2zrMKQ8p7Y/view?usp=sharing)|
 
 
 #### 3-mix samples
