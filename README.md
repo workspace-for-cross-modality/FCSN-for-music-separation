@@ -22,8 +22,8 @@ Here, we visualize the experiment results as spectrograms and music audios.
 
 You can directly listen to the music audios by clicking the links below the spectrograms.
 
-####  + 2-mix samples
-Sample 1：
+#### 2-mix samples
+ - Sample 1：
 
 |Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/Object_detection_1.png" width="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/Object_detection_2.png" width="150">
 |---|:-:|:-:|
