@@ -96,10 +96,11 @@ You can directly listen to the music audios by clicking the links below the spec
 |Duet Audio|[Audio_Duet](https://drive.google.com/file/d/1GBDdO0GUiDBPqvl0pNBsc8mmb8I70OX7/view?usp=sharing)||
 |Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/separated_2_spectrogram.png" width="200">|
 |Separated Audio|[Audio_Separation_1](https://drive.google.com/file/d/12VgUmI4AoUT1Sw4LK0bTRgkBSVWTOa91/view?usp=sharing)|[Audio_Separation_2](https://drive.google.com/file/d/15ToiHPZXiS-jnBOEuECHCDmTnHyFRhTv/view?usp=sharing)|
-***
++++
 
 ### Conclusion
 In this work, we propose a cycle-refining network for visually-guided audio source separation. Our cycle-refining operation explored the full potential of visual guidance in audio source separation and contributed to the separation of interactive sounds as well. The experiments demonstrated the effectiveness of our approach.
+***
 
 ## Code Part
 The README of our code can be seen at /code/CRN/README.md.
