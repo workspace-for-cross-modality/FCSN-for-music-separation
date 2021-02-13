@@ -14,7 +14,6 @@ For each sample, we supply the following files:
 
 For 2-mix samples, there are two sound sources in the mixture to be separated. And the same setting is applied for 3-mix samples.
 For real-mix duet samples, we randomly select duet samples in the MUSIC dataset to simulate the separation results in real scenes. 
-***
 
 ### Visualization
 
@@ -22,8 +21,8 @@ Here, we visualize the experiment results as spectrograms and music audios.
 
 You can directly listen to the music audios by clicking the links below the spectrograms.
 
-***
-#### → *2-mix samples*
+
+#### → 2-mix samples
 
  - Sample 1：
 
@@ -50,7 +49,7 @@ You can directly listen to the music audios by clicking the links below the spec
 ***
 
 #### → 3-mix samples
-***
+
  - Sample 1：
 
 |Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/Object_detection_1.png" width="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/Object_detection_2.png" width="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/Object_detection_3.png" width="150" height="150">|
@@ -76,7 +75,7 @@ You can directly listen to the music audios by clicking the links below the spec
 ***
 
 #### → Real-mix duet samples
-***
+
  - Sample 1:
  
 |Frame|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/frame.png" width="150">||
