@@ -22,7 +22,7 @@ Here, we visualize the experiment results as spectrograms and music audios.
 
 You can directly listen to the music audios by clicking the links below the spectrograms.
 
-#### 2-mix samples
+#### > 2-mix samples
 
  - Sample 1：
 
