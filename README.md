@@ -2,6 +2,7 @@
 
 Music source separation from a sound mixture remains a big challenge because there often exist heavy overlaps and interactions among similar music signals. In order to correctly separate mixed sources, we propose a novel Cycle-Refining Network (CRN) for visually-guided music source separation. With the guidance of visual features, the proposed CRN approach refines preliminarily separated music sources by minimizing the residual spectrogram which is calculated by removing separated music spectrograms from the original music mixture. The refining separation is repeated several times until the residual spectrogram becomes empty or leaves only noise. Extensive experiments are performed on three large-scale datasets, the MUSIC (MUSIC-21), the AudioSet, and the VGGSound. Our approach outperforms the state-of-the-art in all datasets, and both separation accuracies and visualization results demonstrate its effectiveness for solving the problem of overlap and interaction in music source separation.
 
+***
 
 ## Audio-Vision Separation Results
 The audio-visual results include three sub-parts: 2-mix samples, 3-mix samples, and real-mix duet samples. 
@@ -13,16 +14,15 @@ For each sample, we supply the following files:
 
 For 2-mix samples, there are two sound sources in the mixture to be separated. And the same setting is applied for 3-mix samples.
 For real-mix duet samples, we randomly select duet samples in the MUSIC dataset to simulate the separation results in real scenes. 
-
-
+***
 
 ### Visualization
 
 Here, we visualize the experiment results as spectrograms and music audios. 
 
 You can directly listen to the music audios by clicking the links below the spectrograms.
-***
 
+***
 #### → *2-mix samples*
 
  - Sample 1：
@@ -35,6 +35,7 @@ You can directly listen to the music audios by clicking the links below the spec
 |Mixture Audio|[Audio_Mixture](https://drive.google.com/file/d/10trqGrPmsEev6fLVj4nxHpIixKD_hZ-q/view?usp=sharing)||
 |Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/separated_2_spectrogram.png" width="200">|
 |Separated Audio|[Audio_Separation_1](https://drive.google.com/file/d/1rYijTDySHUbKV5ybErnXwur5qKqOwsMd/view?usp=sharing)|[Audio_Separation_2](https://drive.google.com/file/d/1nA0IFwXHhiNn662huCGkeCiMVnFOf4N7/view?usp=sharing)|
+***
 
  - Sample 2：
 
@@ -46,10 +47,10 @@ You can directly listen to the music audios by clicking the links below the spec
 |Mixture Audio|[Audio_Mixture](https://drive.google.com/file/d/1b_itzUbLRxcqxwV8d4f_ufotvCzHSjHm/view?usp=sharing)||
 |Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-2/separated_2_spectrogram.png" width="200">|
 |Separated Audio|[Audio_Separation_1](https://drive.google.com/file/d/1ID6xYdaHSQtLTJXGMjyBpxnoW5bWqf1m/view?usp=sharing)|[Audio_Separation_2](https://drive.google.com/file/d/1aqPHt8MeI3fv7niG3WF7cu2zrMKQ8p7Y/view?usp=sharing)|
-
+***
 
 #### → 3-mix samples
-
+***
  - Sample 1：
 
 |Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/Object_detection_1.png" width="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/Object_detection_2.png" width="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/Object_detection_3.png" width="150" height="150">|
@@ -60,6 +61,7 @@ You can directly listen to the music audios by clicking the links below the spec
 |Mixture Audio|[Audio_Mixture](https://drive.google.com/file/d/137nhYJ_ZPP3k93qF3C0aCvL34Ju-Iuj8/view?usp=sharing)|||
 |Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/separated_2_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-1/separated_3_spectrogram.png" width="200">|
 |Separated Audio|[Audio_Separation_1](https://drive.google.com/file/d/1BUYLqxPxPFdtqR4nTyuW25bc0Y5hSuFK/view?usp=sharing)|[Audio_Separation_2](https://drive.google.com/file/d/11mmfcS9vqCUpoqGm6So3FV2Z_4qTL32d/view?usp=sharing)|[Audio_Separation_3](https://drive.google.com/file/d/1Ad_qvnKwaX1zOe9eATqy8bAV3IKszeod/view?usp=sharing)|
+***
 
  - Sample 2：
 
@@ -71,9 +73,10 @@ You can directly listen to the music audios by clicking the links below the spec
 |Mixture Audio|[Audio_Mixture](https://drive.google.com/file/d/1tJfKIixsyvZFx27W9tENodprAYJyWs2Y/view?usp=sharing)|||
 |Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/separated_2_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/3-mix-separation/sample-2/separated_3_spectrogram.png" width="200">|
 |Separated Audio|[Audio_Separation_1](https://drive.google.com/file/d/1XexqJnTmRnGDQ7tzmP2Mp4lqIgPTt4mH/view?usp=sharing)|[Audio_Separation_2](https://drive.google.com/file/d/1KRLJlycYZvwrOx34wfV933nQ3aEkB2uR/view?usp=sharing)|[Audio_Separation_3](https://drive.google.com/file/d/1AmfnZFa4XYvP5EIP2sUvxctCwjO_75wh/view?usp=sharing)|
+***
 
 #### → Real-mix duet samples
-
+***
  - Sample 1:
  
 |Frame|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/frame.png" width="150">||
@@ -83,6 +86,7 @@ You can directly listen to the music audios by clicking the links below the spec
 |Duet Audio|[Audio_Duet](https://drive.google.com/file/d/1VC4gHCAKZoQPem1v-4RgoC_LJ3kmD6p2/view?usp=sharing)||
 |Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-1/separated_2_spectrogram.png" width="200">|
 |Separated Audio|[Audio_Separation_1](https://drive.google.com/file/d/1Lc6MvTNnjE_FlUyhIpNCIVmvL1WGccwu/view?usp=sharing)|[Audio_Separation_2](https://drive.google.com/file/d/1jZ5CtP_6zwjlQC9I4f1Qp5BfhYhkuK_a/view?usp=sharing)|
+***
 
  - Sample 2:
  
@@ -93,6 +97,7 @@ You can directly listen to the music audios by clicking the links below the spec
 |Duet Audio|[Audio_Duet](https://drive.google.com/file/d/1GBDdO0GUiDBPqvl0pNBsc8mmb8I70OX7/view?usp=sharing)||
 |Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/Real-mix duet-separation/sample-2/separated_2_spectrogram.png" width="200">|
 |Separated Audio|[Audio_Separation_1](https://drive.google.com/file/d/12VgUmI4AoUT1Sw4LK0bTRgkBSVWTOa91/view?usp=sharing)|[Audio_Separation_2](https://drive.google.com/file/d/15ToiHPZXiS-jnBOEuECHCDmTnHyFRhTv/view?usp=sharing)|
+***
 
 ## Code Part
 The README of our code can be seen at /code/CRN/README.md.
