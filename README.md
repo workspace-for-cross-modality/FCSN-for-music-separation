@@ -22,11 +22,13 @@ And all the music audio source files can be found at the correspongding folders 
 Sample 1：
 
 |Detected Objects|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/Object_detection_1.png" width="150">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/Object_detection_2.png" width="150">
-|---|---|---|
+|---|:-:|:-:|
 |Ground Truth Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/audio1_groundtruth_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/audio2_groundtruth_spectrogram.png" width="200">|
-|Ground Truth Audio|[audio_1](https://drive.google.com/file/d/1Cgdnu8fjDP4TK-pQrxTiwNlxsXHLyaLK/view?usp=sharing)|[audio_2](https://drive.google.com/file/d/1FKOezbpS1NwIQDtvBusKWz8TqfXWtnh0/view?usp=sharing)|
+|Ground Truth Audio|[Audio_GT_1](https://drive.google.com/file/d/1Cgdnu8fjDP4TK-pQrxTiwNlxsXHLyaLK/view?usp=sharing)|[Audio_GT_2](https://drive.google.com/file/d/1FKOezbpS1NwIQDtvBusKWz8TqfXWtnh0/view?usp=sharing)|
 |Mixture Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/spectrogram_mixture.png" width="200">||
+|Mixture Audio|[Audio_Mixture](https://drive.google.com/file/d/10trqGrPmsEev6fLVj4nxHpIixKD_hZ-q/view?usp=sharing)||
 |Separated Spectrogram|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/separated_1_spectrogram.png" width="200">|<img src="https://github.com/workspace-for-cross-modality/CRN-for-music-separation/blob/main/music_files/2-mix-separation/sample-1/separated_2_spectrogram.png" width="200">|
+|Separated Audio|[Audio_Separation_1](https://drive.google.com/file/d/1rYijTDySHUbKV5ybErnXwur5qKqOwsMd/view?usp=sharing)|[Audio_Separation_2](https://drive.google.com/file/d/1nA0IFwXHhiNn662huCGkeCiMVnFOf4N7/view?usp=sharing)|
 
 Sample 2：
 
