@@ -1,4 +1,4 @@
-# Cycle-Refining Network (CRN) for Visually-guided Music Source Separation
+# Vision-guided Music Source Separation via a Fine-grained Cycle-Separation Network (FCSN)
 This text is used to explain the code involved in our work in this paper.
 
 ## Implementations
