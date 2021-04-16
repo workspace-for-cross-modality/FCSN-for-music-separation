@@ -105,4 +105,4 @@ In this work, we propose a cycle-refining network for visually-guided audio sour
 ***
 
 ## Code Part
-The README of our code can be seen at /code/FCSN/README.md.
+The README of our code can be seen at /code/README.md.
