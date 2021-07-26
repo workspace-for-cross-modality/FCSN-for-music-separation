@@ -1,6 +1,6 @@
 # Vision-guided Music Source Separation via a Fine-grained Cycle-Separation Network (FCSN)
 
-This code is part of the paper: Vision-guided Music Source Separation via a Fine-grained Cycle-Separation Network at ACM Multimedia 2021.
+This code is part of the paper: *Vision-guided Music Source Separation via a Fine-grained Cycle-Separation Network* at ACM Multimedia 2021.
 ***
 Music source separation from a sound mixture remains a big challenge because there often exist heavy overlaps and interactions among similar music signals. In order to correctly separate mixed sources, we propose a novel Fine-grained Cycle-Separation Network (FCSN) for visually-guided music source separation. With the guidance of visual features, the proposed FCSN approach refines preliminarily separated music sources by minimizing the residual spectrogram which is calculated by removing separated music spectrograms from the original music mixture. The refining separation is repeated several times until the residual spectrogram becomes empty or leaves only noise. Extensive experiments are performed on three large-scale datasets, the MUSIC (MUSIC-21), the AudioSet, and the VGGSound. Our approach outperforms the state-of-the-art in all datasets, and both separation accuracies and visualization results demonstrate its effectiveness for solving the problem of overlap and interaction in music source separation.
 
@@ -108,3 +108,16 @@ In this work, we propose a cycle-refining network for visually-guided audio sour
 
 ## Code Part
 The README of our code can be seen at /code/README.md.
+
+## Citation
+```
+@inproceedings{ma2021vision,
+author = {Shuo Ma, Yanli Ji, Xing Xu and Xiaofeng Zhu},
+title = {Vision-guided Music Source Separation via a Fine-grained Cycle-Separation Network},
+year = {2021},
+publisher = {Association for Computing Machinery},
+booktitle = {Proceedings of the 29th ACM International Conference on Multimedia},
+series = {MM '21}
+}
+
+```
